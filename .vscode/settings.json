@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "qvboxlayout": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "*.tcc": "cpp"
+    }
+}
